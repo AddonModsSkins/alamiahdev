@@ -6,16 +6,13 @@
       "select_backup_ads":"",
       "main_ads_banner": "",
       "main_ads_intertitial":"",
-      "main_ads_natives":"",
       "main_ads_rewards":"",
-      "backup_ads_natives":"",
       "backup_ads_banner":"",
       "backup_ads_intertitial":"",
       "backup_ads_rewards":"",
       "open_ads_admob":"",
       "open_ads_alien":"",
-      "switch_open_ads":"1",
-      "switch_banner_natives_ads":"2",
+      "open_ads_max":"",
       "interval_intertitial": 5,
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
@@ -26,16 +23,6 @@
       "high_paying_keyword_5": "",
       "status_app": "0",
       "link_redirect": "https://"
-    }
-  ],
-  
-  "More":
-  [
-    {
-      "id":1,
-      "title":"More App",
-      "image":"",
-      "link":""
     }
   ],
   "Skin":
